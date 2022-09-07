@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/1.unity
+    guid: b334982ec0b6143c189e120ee067c123
+  - enabled: 1
+    path: Assets/Scenes/2.unity
+    guid: bc3f1116579714516bf4fb9540eb54ce
+  - enabled: 1
+    path: Assets/Scenes/3.unity
+    guid: df3e7e9e1dbfd433793caf4869f919b6
+  - enabled: 1
+    path: Assets/Scenes/3-4.unity
+    guid: f81018d2916f543a29890dee38673279
+  - enabled: 1
+    path: Assets/Scenes/4.unity
+    guid: 28dd38108da9249478136214ee60a422
+  - enabled: 1
+    path: Assets/Scenes/5.unity
+    guid: e277ca86364b64efe877d78766ffc0cc
+  - enabled: 1
+    path: Assets/Scenes/6.unity
+    guid: fbbfd91ce4ce748ddb805eb33f94ac1d
+  - enabled: 1
+    path: Assets/Scenes/7.unity
+    guid: 1afaddc9cc463447db7d554888f4bed8
+  - enabled: 1
+    path: Assets/Scenes/8.unity
+    guid: 6852930887a4b406a8556e56fec04855
+  - enabled: 1
+    path: Assets/Scenes/9.unity
+    guid: 14c6a5be3ad6e48f5bd57886f900c76c
+  - enabled: 1
+    path: Assets/Scenes/10.unity
+    guid: b7192b8894fb841a797d52b9feb6e80a
+  - enabled: 1
+    path: Assets/Scenes/11.unity
+    guid: d9b845484de394220a8afd3a254010a9
+  - enabled: 1
+    path: Assets/Scenes/12.unity
+    guid: 00d7fc5da24ad4c86a644923909f0591
+  - enabled: 1
+    path: Assets/Scenes/13.unity
+    guid: 2651c6ebb110d4f989243f3bdb42a3c2
+  - enabled: 1
+    path: Assets/Scenes/14.unity
+    guid: 61e7a85f69a5342f5868e9adc31e26c3
+  - enabled: 1
+    path: Assets/Scenes/15.unity
+    guid: cde3e32a268b14a00ae2b64e0df81265
+  - enabled: 1
+    path: Assets/Scenes/DeathScreen.unity
+    guid: fc2e32df13a80be4fa199970edbcf6c1
+  m_configObjects: {}
